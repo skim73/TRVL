@@ -10,6 +10,7 @@ import Footer from './components/Footer';
 
 function App() {
   useEffect(() => {
+    document.title = "TRVL";
     window.scrollTo(0, 0)
   }, []);
 
