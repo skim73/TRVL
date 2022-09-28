@@ -6,5 +6,8 @@ export default function SignUp() {
     window.scrollTo(0, 0)
   }, []);
   
-  return <h1 className='sign-up'>SIGN UP</h1>;
+  return <h1 className='sign-up'
+          style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/img-8.jpg'})` }}>
+    SIGN UP
+  </h1>;
 }

@@ -6,5 +6,8 @@ export default function Services() {
     window.scrollTo(0, 0)
   }, []);
   
-  return <h1 className='services'>SERVICES</h1>;
+  return <h1 className='services'
+          style={{ backgroundImage: `url(${process.env.PUBLIC_URL + '/images/img-2.jpg'})` }}>
+    SERVICES
+  </h1>;
 }
