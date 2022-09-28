@@ -1,13 +1,13 @@
 {
-  "main.css": "./static/css/main.1a074e43.chunk.css",
-  "main.js": "./static/js/main.a9558ece.chunk.js",
-  "main.js.map": "./static/js/main.a9558ece.chunk.js.map",
-  "static/js/1.9fe5b98e.chunk.js": "./static/js/1.9fe5b98e.chunk.js",
-  "static/js/1.9fe5b98e.chunk.js.map": "./static/js/1.9fe5b98e.chunk.js.map",
-  "runtime~main.js": "./static/js/runtime~main.4a686d48.js",
-  "runtime~main.js.map": "./static/js/runtime~main.4a686d48.js.map",
-  "static/css/main.1a074e43.chunk.css.map": "./static/css/main.1a074e43.chunk.css.map",
-  "index.html": "./index.html",
-  "precache-manifest.600058d5f197228fe07f81f29f4e625b.js": "./precache-manifest.600058d5f197228fe07f81f29f4e625b.js",
-  "service-worker.js": "./service-worker.js"
+  "main.css": "https://skim73.github.io/TRVL/static/css/main.1a074e43.chunk.css",
+  "main.js": "https://skim73.github.io/TRVL/static/js/main.3205ac1a.chunk.js",
+  "main.js.map": "https://skim73.github.io/TRVL/static/js/main.3205ac1a.chunk.js.map",
+  "static/js/1.9fe5b98e.chunk.js": "https://skim73.github.io/TRVL/static/js/1.9fe5b98e.chunk.js",
+  "static/js/1.9fe5b98e.chunk.js.map": "https://skim73.github.io/TRVL/static/js/1.9fe5b98e.chunk.js.map",
+  "runtime~main.js": "https://skim73.github.io/TRVL/static/js/runtime~main.c57d5a55.js",
+  "runtime~main.js.map": "https://skim73.github.io/TRVL/static/js/runtime~main.c57d5a55.js.map",
+  "static/css/main.1a074e43.chunk.css.map": "https://skim73.github.io/TRVL/static/css/main.1a074e43.chunk.css.map",
+  "index.html": "https://skim73.github.io/TRVL/index.html",
+  "precache-manifest.513233f9e933d0f3b27eea15389403d2.js": "https://skim73.github.io/TRVL/precache-manifest.513233f9e933d0f3b27eea15389403d2.js",
+  "service-worker.js": "https://skim73.github.io/TRVL/service-worker.js"
 }
